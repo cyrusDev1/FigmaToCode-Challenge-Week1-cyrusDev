@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Nuxt.js build directory
+.nuxt/
+
+# .env file
+.env
+
+# Log files
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directory
+/.yarn
+
+# Build files
+dist/
