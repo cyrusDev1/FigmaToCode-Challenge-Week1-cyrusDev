@@ -73,12 +73,11 @@
         <section class="clearfix py-10 mt-72 lg:mt-60 xl:mt-36 lg:px-40 flex justify-center">
             <div class="grid grid-cols-1 mx-10 2xl:grid-cols-2 2xl:gap-24">
                 <div class="relative">
-                    <!--div>
+                    <div>
                         <img class="w-6 absolute top-[-30px] right-[150px] z-20" src="../assets/img/icons/plus.png" alt="">
                         <img class="w-8 absolute top-16 left-[-30px] z-20" src="../assets/img/icons/plus.png" alt="">
                         <img class="w-12 absolute top-28 right-[-25px] z-20" src="../assets/img/icons/plus.png" alt="">
-                        <img class="w-16 absolute top-52 left-[10%] z-20" src="../assets/img/icons/plus.png" alt="">
-                    </div-->
+                     </div>
                     <div class="h-full w-full">
                         <div
                             class="rounded-[32px] bg-gradient-to-tr from-teal-500 to-blue-500 z-10 opacity-30 absolute w-full h-full">
@@ -109,8 +108,8 @@
             </div>
         </section>
         <section class="bg-sky-50 pt-10 pb-20 lg:px-28">
-            <div class="grid grid-cols-1 mx-10 2xl:grid-cols-2 2xl:gap-24">
-                <div class="relative mt-10 flex items-center">
+            <div class="grid grid-cols-1 mx-10 2xl:grid-cols-2 gap-16 2xl:gap-24">
+                <div class="order-last lg:order-first relative mt-10 flex items-center">
                     <div class="">
                         <h3 class="mb-5 text-teal-500 text-2xl font-semibold font-['Poppins'] tracking-wide">
                             Services</h3>
@@ -129,18 +128,17 @@
                         </div>
                     </div>
                 </div>
-                <div class="relative">
+                <div class="relative flex justify-center">
+                    <div  style="border-spacing: 2rem;" 
+                    class="p-0  border-dashed w-[251px] h-[251px] lg:w-[331px] space-x-8  lg:h-[331px] rounded-full shadow-inner border-8 border-teal-500 flex justify-center items-center">
+                    <div class="border-dashed w-[150px] h-[150px]  lg:w-[200px] lg:h-[200px] rounded-full shadow-inner border-8 border-teal-500"></div></div>
+
+
                     <!--div>
-                        <img class="w-6 absolute top-[-30px] right-[150px] z-20" src="../assets/img/icons/plus.png" alt="">
-                        <img class="w-8 absolute top-16 left-[-30px] z-20" src="../assets/img/icons/plus.png" alt="">
-                        <img class="w-12 absolute top-28 right-[-25px] z-20" src="../assets/img/icons/plus.png" alt="">
-                        <img class="w-16 absolute top-52 left-[10%] z-20" src="../assets/img/icons/plus.png" alt="">
-                    </div>
-                    <div class="h-full w-full">
-                        <div
-                            class="rounded-[32px] bg-gradient-to-tr from-teal-500 to-blue-500 z-10 opacity-30 absolute w-full h-full">
-                        </div>
-                        <img class="relative rounded-[32px] w-full h-full z-0" src="../assets/img/doctor.jpeg" alt="">
+                        <img class="w-52 absolute top-[-30px] left-[250px] z-20" src="../assets/img/services/001.png" alt="">
+                        <img class="absolute top-16 left-[-30px] z-20" src="../assets/img/services/002.png" alt="">
+                        <img class="absolute top-28 right-[-25px] z-20" src="../assets/img/services/003.png" alt="">
+                        <img class="absolute top-52 left-[10%] z-20" src="../assets/img/services/004.png" alt="">
                     </div-->
                 </div>
             </div>
@@ -148,7 +146,7 @@
             <div class="mt-10 grid px-8 lg:px-16 grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8">
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/02.svg" alt="">
+                        <img class="" src="../assets/img/services/02.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">General</h3>
@@ -164,7 +162,7 @@
                 </div>
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/05.svg" alt="">
+                        <img class="" src="../assets/img/services/05.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">Pediatrics</h3>
@@ -180,7 +178,7 @@
                 </div>
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/06.svg" alt="">
+                        <img class="" src="../assets/img/services/06.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">Nutritional</h3>
@@ -196,7 +194,7 @@
                 </div>
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/04.svg" alt="">
+                        <img class="" src="../assets/img/services/04.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">Cardiology</h3>
@@ -212,7 +210,7 @@
                 </div>
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/01.svg" alt="">
+                        <img class="" src="../assets/img/services/01.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">Ophthalmology</h3>
@@ -228,7 +226,7 @@
                 </div>
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
-                        <img class="" src="../assets/img/services/03.svg" alt="">
+                        <img class="" src="../assets/img/services/03.png" alt="">
                     </div>
                     <div class="space-y-3">
                         <h3 class="text-black text-2xl font-semibold font-['Poppins'] leading-[21px]">Orthopedics</h3>
