@@ -1,5 +1,9 @@
 module.exports = {
-  devtools: { enabled: true },
+  buildModules: [
+    '@nuxt/image',
+    // ...
+  ],
+  devtools: { enabled: false },
   css: ['~/assets/css/main.css'],
   postcss: {
     plugins: {

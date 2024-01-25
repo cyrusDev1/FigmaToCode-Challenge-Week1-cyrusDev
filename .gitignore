@@ -17,7 +17,7 @@ node_modules/
 *.ntvs*
 *.njsproj
 *.sln
-
+.output/
 # Dependency directory
 /.yarn
 

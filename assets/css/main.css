@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'sora';
+    src: url('../../public/fonts/Sora.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../../public/fonts/Poppins.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

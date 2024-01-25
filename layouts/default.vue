@@ -1,14 +1,18 @@
 <template>
-    <HeaderComponent />
-    <slot />
-    <FooterComponent />
-</template>
+             <HeaderComponent />
+            <slot />
+            <FooterComponent />
+ </template>
     
 <script>
 import HeaderComponent from '~/components/HeaderComponent.vue'
 import FooterComponent from '~/components/FooterComponent.vue'
 
 export default {
+    data() {
+        return {
+         };
+    },
     components: {
         HeaderComponent,
         FooterComponent
@@ -17,5 +21,5 @@ export default {
 </script>
     
 <style>
-body {}
+ 
 </style>
