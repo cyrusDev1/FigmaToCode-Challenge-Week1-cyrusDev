@@ -246,9 +246,9 @@
                     <h3 class="text-center text-teal-500 text-md font-semibold font-['Poppins'] tracking-wide">Book an
                         appointment</h3>
                 </div>
-                <div class="bg-gradient-to-br from-blue-600 to-blue-400 rounded-xl py-8 px-3 lg:py-10 lg:px-12">
+                <div class="bg-gradient-to-br from-blue-600 to-blue-400 rounded-xl py-8 px-3 lg:py-16 lg:px-12">
                     <div class="flex-inline justify-center space-y-2">
-                        <h3 class="text-center text-white  text-xl md:text-2xl font-semibold font-['Poppins']">Schedule a
+                        <h3 class="text-center text-white  text-xl md:text-3xl font-semibold font-['Poppins']">Schedule a
                             virtual or presential appointment today</h3>
                         <p
                             class="md:w-[60%] opacity-80 mx-auto text-center text-white text-xs sm:text-md font-normal font-['Sora'] leading-normal">
@@ -270,7 +270,7 @@
                         Matthew Anderson?</h3>
                 </div>
                 <div class="video-container relative">
-                    <img v-if="!showVideoPopup" src="../assets/img/thumbail.jpeg" alt="Video Thumbnail"
+                    <img v-if="!showVideoPopup" @click="openVideo" src="../assets/img/thumbail.jpeg" alt="Video Thumbnail"
                         class="video-thumbnail rounded-xl">
                     <div v-if="!showVideoPopup" class="play-button bg-blue-500 text-white p-2 pl-4 pt-3" @click="openVideo">
                         <img src="../assets/img/icons/play.svg" alt="">
