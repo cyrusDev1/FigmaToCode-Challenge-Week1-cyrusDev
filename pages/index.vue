@@ -1,16 +1,19 @@
 <template>
     <main>
         <section class="bg-sky-50 px-10 lg:px-32 relative">
-            <div class="flex flex-col-reverse md:flex-row gap-8 py-16 md:py-28">
+            <div class="flex flex-col-reverse xl:flex-row gap-8 py-20 lg:py-28">
                 <div class="flex items-center">
                     <div class="space-y-4">
                         <h3 class="text-teal-500  text-[22px] font-semibold font-['Poppins'] tracking-wide">Dr. Matthew
                             Anderson
                         </h3>
-                        <h2 class="text-slate-900 text-3xl sm:text-4xl lg:text-5xl font-bold font-['Poppins'] leading-tight	">A dedicated
+                        <h2
+                            class="text-slate-900 text-3xl sm:text-4xl lg:text-5xl font-bold font-['Poppins'] leading-tight	">
+                            A dedicated
                             doctor<br />you
                             can trust</h2>
-                        <p class="text-slate-500 text-base font-normal w-[100%] lg:w-[60%] font-['Sora'] leading-normal">Lorem ipsum
+                        <p class="text-slate-500 text-base font-normal w-[100%] lg:w-[60%] font-['Sora'] leading-normal">
+                            Lorem ipsum
                             dolor sit
                             amet,
                             consectetur adipiscing elit.
@@ -24,10 +27,12 @@
                     </div>
 
                 </div>
-                <div class="flex justify-center w-4/5 md:w-2/5 m-auto relative">
-                    <img class="" src="../assets/img/hero.png" alt="">
-                    <img src="../assets/img/hero-decoration.png" alt="decoration" class="absolute top-0 right-0 decoration w-full">
-                </div>
+                <div class="w-4/5  xl:w-2/5 relative mx-auto flex justify-end">
+                    <img src="../assets/img/hero.png"
+                        alt="illustration" class="w-full">
+                    <img
+                        src="../assets/img/hero-decoration.png" alt="decoration"
+                        class="absolute top-0 right-0 decoration w-full"></div>
             </div>
         </section>
 
@@ -78,7 +83,7 @@
                         <img class="w-6 absolute top-[-30px] right-[150px] z-20" src="../assets/img/icons/plus.png" alt="">
                         <img class="w-8 absolute top-16 left-[-30px] z-20" src="../assets/img/icons/plus.png" alt="">
                         <img class="w-12 absolute top-28 right-[-25px] z-20" src="../assets/img/icons/plus.png" alt="">
-                     </div>
+                    </div>
                     <div class="h-full w-full">
                         <div
                             class="rounded-[32px] bg-gradient-to-tr from-teal-500 to-blue-500 z-10 opacity-30 absolute w-full h-full">
@@ -130,13 +135,13 @@
                     </div>
                 </div>
                 <div class="relative flex justify-center">
-                     
-                        <img class="" src="../assets/img/services/visual.png" alt="">
- 
+
+                    <img class="" src="../assets/img/services/visual.png" alt="">
+
                 </div>
             </div>
 
-            <div class="mt-10 grid px-8 lg:px-16 grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8">
+            <div class="mt-10 grid px-8 xl:px-48 2xl:px-24 grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8">
                 <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/02.png" alt="">
@@ -326,14 +331,20 @@
         </section>
         <section class="py-20 bg-sky-50">
             <div class="px-5 text-center mx-auto space-y-4">
-                <h3 class="mx-auto text-slate-900 text-3xl font-semibold font-['Poppins']">What our great customers say about Dr. Matthew Anderson</h3>
-                <p class="w-[90%] lg:w-[60%] inline-block h-11 text-center text-slate-500 text-base font-normal font-['Sora'] leading-normal">Lorem ipsum ctetur adipiscing elit, sed do eiusmod tempor incididu dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                <h3 class="mx-auto text-slate-900 text-3xl font-semibold font-['Poppins']">What our great customers say
+                    about Dr. Matthew Anderson</h3>
+                <p
+                    class="w-[90%] lg:w-[60%] inline-block h-11 text-center text-slate-500 text-base font-normal font-['Sora'] leading-normal">
+                    Lorem ipsum ctetur adipiscing elit, sed do eiusmod tempor incididu dolor sit amet, consectetur
+                    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
             </div>
             <div class="px-10 md:px-32 lg:px-40 xl:px-80 mt-10">
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
+                    <div
+                        class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
                         <div>
-                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                         </div>
                         <div class="flex gap-2">
                             <div>
@@ -345,9 +356,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
+                    <div
+                        class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
                         <div>
-                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                         </div>
                         <div class="flex gap-2">
                             <div>
@@ -359,9 +372,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
+                    <div
+                        class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
                         <div>
-                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                         </div>
                         <div class="flex gap-2">
                             <div>
@@ -373,9 +388,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
+                    <div
+                        class="px-7 py-6 bg-white rounded-[32px] shadow border flex-col justify-start items-start gap-2 inline-flex">
                         <div>
-                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+                            <p class="text-slate-900 text-base font-light font-['Poppins']">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
                         </div>
                         <div class="flex gap-2">
                             <div>
