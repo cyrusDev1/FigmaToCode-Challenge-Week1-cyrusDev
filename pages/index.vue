@@ -141,8 +141,8 @@
                 </div>
             </div>
 
-            <div class="mt-10 grid px-8 xl:px-48 2xl:px-24 grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8">
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+            <div class="mt-10 grid px-8 xl:px-48  grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-8">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/02.png" alt="">
                     </div>
@@ -152,13 +152,13 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/05.png" alt="">
                     </div>
@@ -168,13 +168,13 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/06.png" alt="">
                     </div>
@@ -184,13 +184,13 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/04.png" alt="">
                     </div>
@@ -200,13 +200,13 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/01.png" alt="">
                     </div>
@@ -216,13 +216,13 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
-                <div class="p-4 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
+                <div class="p-6 lg:p-8 bg-white rounded-3xl shadow flex-col items-start  inline-flex">
                     <div class="mb-2 flex mx-auto">
                         <img class="" src="../assets/img/services/03.png" alt="">
                     </div>
@@ -232,7 +232,7 @@
                             amet, consecte tur adipiscing elit aliquet iTristique id nibh lobortis nunc</p>
                     </div>
                     <div class="mt-4 flex mx-auto">
-                        <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
+                        <a class="flex gap-2 items-center capitalize px-4 py-3 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
                             <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
