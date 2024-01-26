@@ -106,7 +106,7 @@
                         <div class="py-5">
                             <a class="m-auto 2xl:mx-0 flex gap-2 w-64 inline-block items-center px-4 py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-md font-semibold"
                                 href="">
-                                <img src="../assets/img/icons/whatsapp.svg" alt="">
+                                <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                                 <span class=""> Book an appointment</span></a>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                         <div class="py-4">
                             <a class="flex gap-2 w-64 capitalize items-center px-4 py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-md font-semibold"
                                 href="">
-                                <img src="../assets/img/icons/whatsapp.svg" alt="">
+                                <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                                 <span class=""> Book an appointment</span></a>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
@@ -218,7 +218,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                     <div class="mt-4 flex mx-auto">
                         <a class="flex gap-2 items-center capitalize px-4 py-1 lg:py-3 bg-gradient-to-r from-blue-500 to-violet-600 rounded-3xl shadow text-white text-sm font-semibold"
                             href="">
-                            <img src="../assets/img/icons/whatsapp.svg" alt="">
+                            <img class="w-6" src="../assets/img/icons/whatsapp.svg" alt="">
                             <span class=""> Book an appointment</span></a>
                     </div>
                 </div>
