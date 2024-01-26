@@ -30,7 +30,7 @@
             </div>
         </div>
         <transition name="">
-            <div v-if="showToggleMenu" @click="closeToggleMenu()" class="h-screen bg-black fixed inset-0 opacity-50 z-10">
+            <div v-if="showToggleMenu" @click="closeToggleMenu()" class="h-screen bg-black fixed inset-0 opacity-50 z-30">
             </div>
         </transition>
         <transition name="fade">
