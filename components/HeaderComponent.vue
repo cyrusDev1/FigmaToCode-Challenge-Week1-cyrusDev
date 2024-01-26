@@ -35,7 +35,7 @@
         </transition>
         <transition name="fade">
             <div v-if="showToggleMenu"
-                class="menu-container opacity-100 rounded-lg mobile-nav inline-block justify-center fixed h-[70%] inset-0 z-20 space-y-8 block pt-3 pb-10 bg-blue-600 lg:hidden">
+                class="menu-container opacity-100 rounded-lg mobile-nav inline-block justify-center fixed h-[90%] inset-0 z-30 space-y-8 block pt-3 pb-10 bg-blue-600 lg:hidden">
                 <div class="hamburger-menu-icon cursor-pointer flex mt-2 justify-end mr-8 text-white block lg:hidden"
                     @click="closeToggleMenu()">
                     <img src="../assets/img/icons/close.svg" alt="">
