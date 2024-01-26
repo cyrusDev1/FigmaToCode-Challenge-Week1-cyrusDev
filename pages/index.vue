@@ -1,8 +1,8 @@
 <template>
     <main>
         <section class="bg-sky-50 px-10 lg:px-32 relative">
-            <div class="block lg:flex gap-8 py-28">
-                <div class="bg-yellow- flex items-center">
+            <div class="flex flex-col-reverse md:flex-row gap-8 py-16 md:py-28">
+                <div class="flex items-center">
                     <div class="space-y-4">
                         <h3 class="text-teal-500  text-[22px] font-semibold font-['Poppins'] tracking-wide">Dr. Matthew
                             Anderson
@@ -24,8 +24,9 @@
                     </div>
 
                 </div>
-                <div class="flex">
-                    <!--img src="../assets/img/doctors.png" class="z-10" alt=""-->
+                <div class="flex justify-center w-4/5 md:w-2/5 m-auto relative">
+                    <img class="" src="../assets/img/hero.png" alt="">
+                    <img src="../assets/img/hero-decoration.png" alt="decoration" class="absolute top-0 right-0 decoration w-full">
                 </div>
             </div>
         </section>
@@ -129,17 +130,9 @@
                     </div>
                 </div>
                 <div class="relative flex justify-center">
-                    <div  style="border-spacing: 2rem;" 
-                    class="p-0  border-dashed w-[251px] h-[251px] lg:w-[331px] space-x-8  lg:h-[331px] rounded-full shadow-inner border-8 border-teal-500 flex justify-center items-center">
-                    <div class="border-dashed w-[150px] h-[150px]  lg:w-[200px] lg:h-[200px] rounded-full shadow-inner border-8 border-teal-500"></div></div>
-
-
-                    <!--div>
-                        <img class="w-52 absolute top-[-30px] left-[250px] z-20" src="../assets/img/services/001.png" alt="">
-                        <img class="absolute top-16 left-[-30px] z-20" src="../assets/img/services/002.png" alt="">
-                        <img class="absolute top-28 right-[-25px] z-20" src="../assets/img/services/003.png" alt="">
-                        <img class="absolute top-52 left-[10%] z-20" src="../assets/img/services/004.png" alt="">
-                    </div-->
+                     
+                        <img class="" src="../assets/img/services/visual.png" alt="">
+ 
                 </div>
             </div>
 
