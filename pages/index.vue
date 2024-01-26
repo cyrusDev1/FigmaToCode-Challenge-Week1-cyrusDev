@@ -468,8 +468,8 @@ export default {
 }
 
 .modal {
+    z-index: 20;
     position: fixed;
-    z-index: 1;
     left: 0;
     top: 0;
     width: 100%;
